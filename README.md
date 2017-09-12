@@ -2,7 +2,7 @@
 Get desktop notifications from La Grande Evasion when music changes
 
 
-# get started
+# get started (Chrome only)
 1. install a userscripts manager plugin such as [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=fr)
 
 2. add new userscript and copy / paste userscript.js 
